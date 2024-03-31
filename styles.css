@@ -80,7 +80,6 @@ button:hover {
     background-color: var(--Green);
     cursor: pointer black;
     color: black;
-
 }
 a {
     text-decoration: none;
@@ -93,23 +92,6 @@ a {
     margin-bottom: 0px;
     margin-top: 0px;
 }
-/*hehhehehhehehhehhehehheheh*/
-button [value="Github"] {
-    margin-bottom: 0px;
-}
-button[value="Frontend Mentor"] {
+.buttons {
     margin-bottom: 12px;
-    margin-top: 12px;
-}
-button[value="LinkedIn"] {
-    margin-bottom: 12px;
-    margin-top: 0px;
-}
-button [value="Twitter"] {
-    margin-bottom: 12px;
-    margin-top: 0px;
-}
-button [value="Instagram"] {
-    margin-top: 12px;
-    margin-bottom: 0px;
 }
